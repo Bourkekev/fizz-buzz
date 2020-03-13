@@ -1,2 +1,2 @@
 # Fizz Buzz
-The FIzzBuzz game
+The FizzBuzz game.
